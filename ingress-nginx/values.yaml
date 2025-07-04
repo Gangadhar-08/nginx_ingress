@@ -838,7 +838,7 @@ defaultBackend:
   ##
   podAnnotations: {}
 
-  replicaCount: 1
+  replicaCount: 5
 
   minAvailable: 1
 
